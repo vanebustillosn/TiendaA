@@ -1,5 +1,5 @@
 package categoría.control;
-
+//pruebas en git hub
 import java.util.ArrayList;
 
 import categoría.entity.Categoría;
@@ -13,7 +13,6 @@ public class Categorías {
 
 	public Categorías(int tamaño) {
 		categorías = new Categoría[tamaño];
-		//ArrayList<Categoría> categorías= new ArrayList<Categoría>();
 		cantidad = 0;
 		último = -1;
 	}
